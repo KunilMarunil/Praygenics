@@ -1,0 +1,6 @@
+@jkn_audit_ai_backend_HostAddress = http://localhost:5268
+
+GET {{jkn_audit_ai_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
