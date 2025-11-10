@@ -22,8 +22,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +40,7 @@
               "RelativeDocumentMoniker": "Domain\\CoreEncounter.cs",
               "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\Domain\\CoreEncounter.cs",
               "RelativeToolTip": "Domain\\CoreEncounter.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIA/wA4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T03:12:35.628Z",
               "EditorCaption": ""
@@ -62,14 +70,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T03:01:52.461Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         },

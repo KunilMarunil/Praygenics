@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\claimstatusupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\claimstatusupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\findingupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\findingupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\pagingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\pagingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\worklistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\worklistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\claimdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\claimdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\encounterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\encounterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\providerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\providerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\findingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\findingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\dtos\\claimlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:dtos\\claimlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|c:\\assesment\\praygenics\\src\\jkn-audit-ai-backend\\domain\\coreencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1227415E-9C6E-4BA6-BE58-95712A186101}|jkn-audit-ai-backend.csproj|solutionrelative:domain\\coreencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,32 +79,174 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClaimStatusUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\ClaimStatusUpdateRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\ClaimStatusUpdateRequest.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\ClaimStatusUpdateRequest.cs",
+              "RelativeToolTip": "DTOs\\ClaimStatusUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:02:40.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindingUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\FindingUpdateRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\FindingUpdateRequest.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\FindingUpdateRequest.cs",
+              "RelativeToolTip": "DTOs\\FindingUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:02:17.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagingDto.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\PagingDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PagingDto.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\PagingDto.cs",
+              "RelativeToolTip": "DTOs\\PagingDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:01:25.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorklistItemDto.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\WorklistItemDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\WorklistItemDto.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\WorklistItemDto.cs",
+              "RelativeToolTip": "DTOs\\WorklistItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:00:35.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaimDetailDto.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\ClaimDetailDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ClaimDetailDto.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\ClaimDetailDto.cs",
+              "RelativeToolTip": "DTOs\\ClaimDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:59:54.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EncounterDto.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\EncounterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EncounterDto.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\EncounterDto.cs",
+              "RelativeToolTip": "DTOs\\EncounterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:59:26.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProviderDto.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\ProviderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProviderDto.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\ProviderDto.cs",
+              "RelativeToolTip": "DTOs\\ProviderDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:58:52.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberDto.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\MemberDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MemberDto.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\MemberDto.cs",
+              "RelativeToolTip": "DTOs\\MemberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:58:23.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PaymentDto.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\PaymentDto.cs",
+              "RelativeToolTip": "DTOs\\PaymentDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:58:03.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FindingDto.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\FindingDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FindingDto.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\FindingDto.cs",
+              "RelativeToolTip": "DTOs\\FindingDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:57:41.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClaimLineDto.cs",
+              "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\ClaimLineDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ClaimLineDto.cs",
+              "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\DTOs\\ClaimLineDto.cs",
+              "RelativeToolTip": "DTOs\\ClaimLineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:56:54.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CoreEncounter.cs",
               "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\Domain\\CoreEncounter.cs",
               "RelativeDocumentMoniker": "Domain\\CoreEncounter.cs",
               "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\Domain\\CoreEncounter.cs",
               "RelativeToolTip": "Domain\\CoreEncounter.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T03:12:35.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "jkn-audit-ai-backend",
+              "DocumentIndex": 13,
+              "Title": "jkn-audit-ai-backend.csproj",
               "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\jkn-audit-ai-backend.csproj",
               "RelativeDocumentMoniker": "jkn-audit-ai-backend.csproj",
               "ToolTip": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\jkn-audit-ai-backend.csproj",
               "RelativeToolTip": "jkn-audit-ai-backend.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-10T03:08:30.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T03:08:30.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -68,8 +254,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T03:01:52.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T03:01:52.461Z"
             }
           ]
         },

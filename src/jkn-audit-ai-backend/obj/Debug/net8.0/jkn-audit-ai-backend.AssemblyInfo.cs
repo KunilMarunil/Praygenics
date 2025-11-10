@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jkn-audit-ai-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f8edf6ef7985b57928e330c1ca70c248597691d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+246bbaf55c62644ca877b31356bed4ca6af76ae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("jkn-audit-ai-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jkn-audit-ai-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
