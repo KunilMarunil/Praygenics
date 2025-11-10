@@ -1,4 +1,10 @@
+using jkn_audit_ai_backend.Infra;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<AppDb>(opt =>
+    opt.UseNpgsql(builder.Configuration.GetConnectionString("Pg")));
 
 // Add services to the container.
 

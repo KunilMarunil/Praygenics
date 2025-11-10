@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\jkn-audit-ai-backend.props" />
+</Project>

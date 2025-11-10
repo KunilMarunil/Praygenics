@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e6iBZizY0Ju6b2jGutCBXSbPgFumEdyReLpY2rDCoEQ=",
+  "Source": "jkn-audit-ai-backend",
+  "BasePath": "_content/jkn-audit-ai-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

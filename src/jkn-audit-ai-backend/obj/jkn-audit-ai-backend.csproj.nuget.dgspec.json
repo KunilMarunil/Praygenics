@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Ngoding\\Praygenics\\src\\jkn-audit-ai-backend\\jkn-audit-ai-backend.csproj": {}
+    "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\jkn-audit-ai-backend.csproj": {}
   },
   "projects": {
-    "H:\\Ngoding\\Praygenics\\src\\jkn-audit-ai-backend\\jkn-audit-ai-backend.csproj": {
+    "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\jkn-audit-ai-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Ngoding\\Praygenics\\src\\jkn-audit-ai-backend\\jkn-audit-ai-backend.csproj",
+        "projectUniqueName": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\jkn-audit-ai-backend.csproj",
         "projectName": "jkn-audit-ai-backend",
-        "projectPath": "H:\\Ngoding\\Praygenics\\src\\jkn-audit-ai-backend\\jkn-audit-ai-backend.csproj",
-        "packagesPath": "C:\\Users\\ramad\\.nuget\\packages\\",
-        "outputPath": "H:\\Ngoding\\Praygenics\\src\\jkn-audit-ai-backend\\obj\\",
+        "projectPath": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\jkn-audit-ai-backend.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Assesment\\Praygenics\\src\\jkn-audit-ai-backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ramad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -74,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
